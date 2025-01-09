@@ -1,3 +1,7 @@
+# 파이어베이스 앱 만들기
+구글 튜토리얼 위주로 진행해 본다.
+FriendlyEats 앱 만들기
+
 # FriendlyEats (Web)
 
 ## Introduction
